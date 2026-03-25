@@ -1,0 +1,11 @@
+ menu:
+    - name: "Sobre"
+      url: "/pt/about"
+    - name: "Eventos"
+      url: "/pt/events"
+    - name: "Contatos"
+      url: "/pt/contacts"
+      
+common:
+  read_more: "Ler mais"
+  posted_on: "Postado em"
