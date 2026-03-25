@@ -1,4 +1,4 @@
-# BitDevs Cotonou
+# BitDevs Maputo
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
 
@@ -82,7 +82,7 @@ BitdevsCotonou/
 
 ## Making a Post
  ### READ BEFORE : 
-`/en/` is related to English language and `/fr/` is related to French language.
+`/en/` is related to English language and `/pt/` is related to Portuguese language.
 ### Create a new markdown file in the `_posts` directory. The file name
 To make a new post, make a new file in `_posts/` with a title of
 `YYYY-MM-DD-title-goes-here`. At the top of the file you'll want to provide the
